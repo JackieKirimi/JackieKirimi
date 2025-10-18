@@ -1,4 +1,17 @@
-## Hi there 👋
+## Hi, I'm Jackline 👋🏽
+I'm a Biomedical Engineering student at Kenyatta University, passionate about technology and coding.
+
+## 💻 Skills
+- HTML & CSS (learning)
+- Python
+- Computer Applications
+- Virtual Assistance (ALX certified)
+
+## 🚀 Projects
+- [Personal Portfolio Website](#)
+- [Bank Customer Management System](#)
+
+📫 Reach me: jylnkagendo60@gmail.com
 
 <!--
 **JackieKirimi/JackieKirimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
